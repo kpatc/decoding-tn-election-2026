@@ -1,0 +1,13 @@
+metric,value_2021,value_2026
+total_constituencies,234.0,234.0
+total_valid_votes,46236492.0,49324121.0
+seats_flipped,,163.0
+flip_rate_pct,,69.7
+seats_won_over_50pct,70.0,13.0
+seats_won_under_35pct,2.0,64.0
+avg_winner_share_pct,48.41,38.83
+median_winner_share_pct,48.16,37.43
+tvk_seats,0.0,108.0
+dmk_seats,133.0,59.0
+aiadmk_seats,66.0,47.0
+tight_races_under_0p5pct_margin,,14.0
