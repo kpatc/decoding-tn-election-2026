@@ -137,7 +137,7 @@ Python 3.10 or higher.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/atliq-tn-election-2026.git
+git clone https://github.com/kpatc/atliq-tn-election-2026.git
 cd atliq-tn-election-2026
 ```
 
