@@ -339,7 +339,6 @@ def export_kpis(kpis: dict, tables: dict) -> None:
     _save(kpis["seats_by_party"],   "seats_by_party")
     _save(kpis["seats_by_region"],  "seats_by_region")
     _save(kpis["region_summary"],   "region_summary")
-    _save(kpis["vote_share_state"].head(15), "vote_share_state")
 
     # ── Q6 : Margins ───────────────────────────────────────
     _save(kpis["margin_global"],        "margin_global")
@@ -348,7 +347,6 @@ def export_kpis(kpis: dict, tables: dict) -> None:
     _save(kpis["tight_races"],          "tight_races")
     _save(kpis["landslides"],           "landslides")
     _save(kpis["margin_distribution"],  "margin_distribution")
-    _save(kpis["bastions"],             "bastions")
 
     # ── Summary scorecard (1 row per key metric) ───────────
     mg  = kpis["margin_global"]
